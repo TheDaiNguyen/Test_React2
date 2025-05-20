@@ -1,0 +1,114 @@
+{
+  "MayTinh": [
+    {
+      "ten_may_ph56563": "Máy tính 1",
+      "mo_ta_ph56563": "Máy mới.",
+      "ngay_bao_hanh_ph56563": "20/12/2025",
+      "cpu_ph56563": "9",
+      "ram_ph56563": "8",
+      "hdd_ph56563": 200,
+      "hinh_anh_ph56563": "https://tse4.mm.bing.net/th?id=OIP.h1dFAVP1k2dbnXadXI8YQgHaHa&pid=Api&P=0&h=220",
+      "id": "d63b"
+    },
+    {
+      "ten_may_ph56563": "Máy tính 2",
+      "mo_ta_ph56563": "Máy mới.",
+      "ngay_bao_hanh_ph56563": "15/11/2025",
+      "cpu_ph56563": "5",
+      "ram_ph56563": "8",
+      "hdd_ph56563": 200,
+      "hinh_anh_ph56563": "https://cdn.tgdd.vn/Files/2017/01/19/939425/cach-cai-hinh-nen-may-tinh-khong-bi-mo_1280x720-800-resize.jpg",
+      "id": "d7d3"
+    },
+    {
+      "ten_may_ph56563": "Máy tính 3",
+      "mo_ta_ph56563": "Máy mới.",
+      "ngay_bao_hanh_ph56563": "15/2/2025",
+      "cpu_ph56563": "9",
+      "ram_ph56563": "16",
+      "hdd_ph56563": 200,
+      "hinh_anh_ph56563": "https://cdn.tgdd.vn/Files/2017/01/19/939425/cach-cai-hinh-nen-may-tinh-khong-bi-mo_1280x720-800-resize.jpg",
+      "id": "bb16"
+    },
+    {
+      "id": "5a67",
+      "ten_may_ph56563": "Máy tính 4",
+      "mo_ta_ph56563": "Máy mới.",
+      "ngay_bao_hanh_ph56563": "11/11/2025",
+      "cpu_ph56563": "5",
+      "ram_ph56563": "32",
+      "hdd_ph56563": "200",
+      "hinh_anh_ph56563": "https://i.pinimg.com/474x/6f/ce/1f/6fce1fcb32c79e363c9878c8bfd9df65--buy-dell-laptop-dell-laptops.jpg"
+    },
+    {
+      "id": "61de",
+      "ten_may_ph56563": "Máy tính 5",
+      "mo_ta_ph56563": "Máy mới.",
+      "ngay_bao_hanh_ph56563": "15/10/2025",
+      "cpu_ph56563": "5",
+      "ram_ph56563": "32",
+      "hdd_ph56563": "200",
+      "hinh_anh_ph56563": "https://tse3.mm.bing.net/th?id=OIP.MUZFLmagigbdykCP7SUbZwHaE6&pid=Api&P=0&h=220"
+    },
+    {
+      "id": "2de1",
+      "ten_may_ph56563": "Máy tính 6",
+      "mo_ta_ph56563": "May moi",
+      "ngay_bao_hanh_ph56563": "15/12/2025",
+      "cpu_ph56563": "5",
+      "ram_ph56563": "16",
+      "hdd_ph56563": "200",
+      "hinh_anh_ph56563": "https://laptopaz.vn/media/product/2887_dell_inspiron_7435_2_in_1_amd_lapvip_4_1684119033.jpg"
+    },
+    {
+      "id": "8083",
+      "ten_may_ph56563": "May tinh 7",
+      "mo_ta_ph56563": "May moi",
+      "ngay_bao_hanh_ph56563": "20/6/2026",
+      "cpu_ph56563": "9",
+      "ram_ph56563": "12",
+      "hdd_ph56563": "20",
+      "hinh_anh_ph56563": "https://tse1.mm.bing.net/th?id=OIP.FQs6dC_gJeERKDa1Vidu5QHaEZ&pid=Api&P=0&h=220"
+    },
+    {
+      "id": "884f",
+      "ten_may_ph56563": "May tinh 8",
+      "mo_ta_ph56563": "May moi",
+      "ngay_bao_hanh_ph56563": "15/2/2026",
+      "cpu_ph56563": "5",
+      "ram_ph56563": "16",
+      "hdd_ph56563": "20",
+      "hinh_anh_ph56563": "https://www.tradeinn.com/f/13913/139130936/dell-xps-9520-15.6-i7-12700h-32gb-1tb-ssd-laptop.jpg"
+    },
+    {
+      "id": "a315",
+      "ten_may_ph56563": "May tinh 9",
+      "mo_ta_ph56563": "May moi",
+      "ngay_bao_hanh_ph56563": "20/12/2026",
+      "cpu_ph56563": "3",
+      "ram_ph56563": "8",
+      "hdd_ph56563": "20",
+      "hinh_anh_ph56563": "https://images.idgesg.net/images/article/2017/08/dell_xps_13_right_side_half-open_3qtr-cropped-100733555-orig.jpg"
+    },
+    {
+      "id": "1e58",
+      "ten_may_ph56563": "May tinh 10",
+      "mo_ta_ph56563": "May moi",
+      "ngay_bao_hanh_ph56563": "20/12/2026",
+      "cpu_ph56563": "9",
+      "ram_ph56563": "32",
+      "hdd_ph56563": "20",
+      "hinh_anh_ph56563": "https://tse1.mm.bing.net/th?id=OIP.eF18a7kPFrUPOQA8BLS2AQHaFS&pid=Api&P=0&h=220"
+    },
+    {
+      "id": "7938",
+      "ten_may_ph56563": "May tinh 11",
+      "mo_ta_ph56563": "May moi",
+      "ngay_bao_hanh_ph56563": "20/12/2026",
+      "cpu_ph56563": 9,
+      "ram_ph56563": 8,
+      "hdd_ph56563": 20,
+      "hinh_anh_ph56563": "https://www.highreshdwallpapers.com/wp-content/uploads/2014/03/dell_studio_laptop_wallpaper.jpg"
+    }
+  ]
+}
